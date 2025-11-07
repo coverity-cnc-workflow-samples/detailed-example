@@ -72,4 +72,5 @@ jobs:
         coverity_build_command: "npm install"
         
         ### Mark build status if policy violating issues are found
-        mark_build_status: 'success'    
+        mark_build_status: 'success'
+        
